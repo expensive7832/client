@@ -1,0 +1,14 @@
+.cart{
+    background-color: #fff;
+    box-shadow: 0 0 1px #999;
+    position: fixed;
+    z-index: 3;
+    width: 20vw;
+    right: 0;
+    min-height: calc(100vh  - 3rem);
+}
+
+.cart-item img{
+    width: 4rem;
+    height: 4rem;
+}
